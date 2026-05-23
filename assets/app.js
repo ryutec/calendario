@@ -1,0 +1,29 @@
+const MONTHS=[6,7,8,9,10,11];
+const NAMES=['Julio','Agosto','Septiembre','Octubre','Noviembre','Diciembre'];
+const DOW=['Dom','Lun','Mar','Mié','Jue','Vie','Sáb'];
+let cfg={}, data={version:1,events:{}}, sha=null, mode='github', dirty=false;
+const $=id=>document.getElementById(id);
+const pad=n=>String(n).padStart(2,'0');
+const key='ryutec_cal_2026_cfg';
+function loadCfg(){try{const c=JSON.parse(localStorage.getItem(key)||'{}');['owner','repo','branch','path','token'].forEach(x=>{if($(x)&&c[x])$(x).value=c[x]})}catch(e){}}
+function saveCfg(){cfg={owner:$('owner').value.trim(),repo:$('repo').value.trim(),branch:$('branch').value.trim()||'main',path:$('path').value.trim()||'data/calendario.json',token:$('token').value.trim()};localStorage.setItem(key,JSON.stringify(cfg));}
+function apiUrl(){return `https://api.github.com/repos/${cfg.owner}/${cfg.repo}/contents/${encodeURIComponent(cfg.path).replaceAll('%2F','/')}?ref=${encodeURIComponent(cfg.branch)}`}
+function headers(){return {'Accept':'application/vnd.github+json','Authorization':`Bearer ${cfg.token}`,'X-GitHub-Api-Version':'2022-11-28'}}
+async function loadGithub(){setStatus('Cargando desde GitHub...');const r=await fetch(apiUrl(),{headers:headers()});if(!r.ok)throw new Error('No se pudo leer calendario.json. Revisa owner, repo, ruta, rama o token.');const j=await r.json();sha=j.sha;data=JSON.parse(decodeURIComponent(escape(atob(j.content.replace(/\n/g,'')))));}
+async function saveGithub(){setStatus('Guardando en GitHub...');const content=btoa(unescape(encodeURIComponent(JSON.stringify({...data,updatedAt:new Date().toISOString()},null,2))));const r=await fetch(apiUrl().replace(/\?ref=.*/,''),{method:'PUT',headers:{...headers(),'Content-Type':'application/json'},body:JSON.stringify({message:`Actualiza calendario de fotos ${new Date().toLocaleString('es-PA')}`,content,sha,branch:cfg.branch})});if(!r.ok){const t=await r.text();throw new Error('No se pudo guardar. Puede que otro usuario haya guardado antes. Recarga y prueba de nuevo. '+t.slice(0,160));}const j=await r.json();sha=j.content.sha;dirty=false;setStatus('Guardado correctamente');}
+function setStatus(t){$('status').textContent=t}
+function showApp(){ $('login').classList.add('hidden'); $('app').classList.remove('hidden'); render(); }
+function render(){const q=($('search')?.value||'').toLowerCase();const fs=$('filterStatus')?.value||'';const root=$('months');root.innerHTML='';MONTHS.forEach((m,i)=>root.appendChild(monthEl(2026,m,NAMES[i],q,fs)));}
+function monthEl(y,m,name,q,fs){const box=document.createElement('article');box.className='month';box.id=`m${m}`;box.innerHTML=`<h2>${name} 2026</h2><div class="weekdays">${DOW.map(d=>`<div>${d}</div>`).join('')}</div><div class="days"></div>`;const days=box.querySelector('.days');const first=new Date(y,m,1).getDay();const total=new Date(y,m+1,0).getDate();for(let i=0;i<first;i++){const e=document.createElement('div');e.className='day empty';days.appendChild(e)}for(let d=1;d<=total;d++){const date=`${y}-${pad(m+1)}-${pad(d)}`;const ev=data.events[date];const cell=document.createElement('div');cell.className='day';cell.dataset.date=date;let visible=true;if(ev){const hay=[ev.school,ev.time,ev.contact,ev.notes,ev.status].join(' ').toLowerCase();visible=(!q||hay.includes(q))&&(!fs||ev.status===fs);}cell.innerHTML=`<div class="num">${d}</div>${ev&&visible?`<div class="event estado-${ev.status||'pendiente'}"><strong>${esc(ev.school||'Sin nombre')}</strong><span class="meta">${esc(ev.time||'')}</span><br><span>${esc(ev.contact||'')}</span></div>`:''}`;cell.onclick=()=>openModal(date);days.appendChild(cell)}return box;}
+function esc(s){return String(s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]))}
+function openModal(date){const ev=data.events[date]||{};$('eventDate').value=date;$('modalTitle').textContent='Editar fecha: '+date;$('school').value=ev.school||'';$('time').value=ev.time||'';$('contact').value=ev.contact||'';$('eventStatus').value=ev.status||'pendiente';$('notes').value=ev.notes||'';$('eventDialog').showModal();}
+$('saveEvent').onclick=e=>{e.preventDefault();const date=$('eventDate').value;data.events[date]={school:$('school').value.trim(),time:$('time').value.trim(),contact:$('contact').value.trim(),status:$('eventStatus').value,notes:$('notes').value.trim(),updatedAt:new Date().toISOString()};dirty=true;$('eventDialog').close();render();setStatus('Cambios pendientes de guardar')};
+$('deleteEvent').onclick=e=>{e.preventDefault();delete data.events[$('eventDate').value];dirty=true;$('eventDialog').close();render();setStatus('Cambios pendientes de guardar')};
+$('connectBtn').onclick=async()=>{try{saveCfg();mode='github';await loadGithub();showApp();setStatus('Conectado a GitHub')}catch(err){alert(err.message)}};
+$('demoBtn').onclick=()=>{mode='local';data=JSON.parse(localStorage.getItem('ryutec_cal_local')||'{"version":1,"events":{}}');showApp();setStatus('Modo local de prueba')};
+$('saveBtn').onclick=async()=>{try{if(mode==='local'){localStorage.setItem('ryutec_cal_local',JSON.stringify(data));dirty=false;setStatus('Guardado localmente')}else await saveGithub()}catch(err){alert(err.message);setStatus('Error al guardar')}};
+$('exportBtn').onclick=()=>{const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([JSON.stringify(data,null,2)],{type:'application/json'}));a.download='calendario-fotos-ryutec-2026.json';a.click()};
+$('logoutBtn').onclick=()=>{if(dirty&&!confirm('Hay cambios sin guardar. ¿Salir de todos modos?'))return;$('app').classList.add('hidden');$('login').classList.remove('hidden')};
+$('search').oninput=render;$('filterStatus').onchange=render;$('todayBtn').onclick=()=>document.getElementById('m6').scrollIntoView({behavior:'smooth'});
+window.addEventListener('beforeunload',e=>{if(dirty){e.preventDefault();e.returnValue=''}});
+loadCfg();
