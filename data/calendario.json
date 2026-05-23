@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-23T20:15:20.507Z",
+  "updatedAt": "2026-05-23T20:44:55.562Z",
   "events": {
     "2026-09-18": [
       {
         "school": "Colegio Primario Mariato",
         "status": "confirmado",
         "time": "8:00 am",
-        "contact": "",
-        "phone": "",
+        "contact": "Jorge Nuñez",
+        "phone": "67372885",
         "notes": ""
       }
     ]
