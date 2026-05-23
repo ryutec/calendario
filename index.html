@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Ryutec Photography | Calendario Escolar 2026</title>
+  <link rel="stylesheet" href="assets/styles.css" />
+</head>
+<body>
+  <div id="login" class="login-wrap">
+    <section class="login-card">
+      <div class="brand-row">
+        <div class="brand-mark">R</div>
+        <div>
+          <h1>Acceso seguro al calendario</h1>
+          <p>Calendario de sesiones fotográficas escolares 2026. Los cambios se guardan en un archivo JSON dentro del repositorio privado.</p>
+        </div>
+      </div>
+      <div class="notice">Recomendación: usa un repositorio privado y tokens personales de GitHub con permiso limitado únicamente a este repositorio.</div>
+      <div class="grid-form">
+        <label>Owner / Organización <input id="owner" placeholder="ejemplo: ryutec" /></label>
+        <label>Repositorio <input id="repo" placeholder="ejemplo: calendario-fotos" /></label>
+        <label>Rama <input id="branch" value="main" /></label>
+        <label>Ruta del JSON <input id="path" value="data/calendario.json" /></label>
+        <label class="full">Token GitHub <input id="token" type="password" placeholder="Fine-grained token con Contents: Read and write" /></label>
+      </div>
+      <div class="actions">
+        <button id="connectBtn" class="primary">Conectar calendario</button>
+        <button id="demoBtn" class="secondary">Usar modo local de prueba</button>
+      </div>
+      <p class="small">El token no se sube al repositorio. Se guarda solo en este navegador para permitir lectura y escritura del JSON.</p>
+    </section>
+  </div>
+
+  <main id="app" class="hidden">
+    <header class="topbar">
+      <div>
+        <h1>Calendario de Fotos Escolares 2026</h1>
+        <p>Ryutec Photography · Julio a diciembre</p>
+      </div>
+      <div class="top-actions">
+        <span id="status" class="status">Conectando...</span>
+        <button id="saveBtn" class="primary">Guardar cambios</button>
+        <button id="exportBtn" class="secondary">Exportar JSON</button>
+        <button id="logoutBtn" class="ghost">Salir</button>
+      </div>
+    </header>
+
+    <section class="toolbar">
+      <input id="search" placeholder="Buscar colegio, contacto, observación..." />
+      <select id="filterStatus">
+        <option value="">Todos los estados</option>
+        <option value="pendiente">Pendiente</option>
+        <option value="confirmado">Confirmado</option>
+        <option value="realizado">Realizado</option>
+        <option value="cancelado">Cancelado</option>
+      </select>
+      <button id="todayBtn" class="secondary">Ir a julio</button>
+    </section>
+
+    <section id="months" class="months"></section>
+  </main>
+
+  <dialog id="eventDialog">
+    <form method="dialog" class="modal">
+      <h2 id="modalTitle">Editar fecha</h2>
+      <input type="hidden" id="eventDate" />
+      <label>Colegio / Cliente <input id="school" /></label>
+      <label>Horario <input id="time" placeholder="Ejemplo: 8:00 a.m. - 12:00 m.d." /></label>
+      <label>Contacto <input id="contact" placeholder="Nombre y teléfono" /></label>
+      <label>Estado
+        <select id="eventStatus">
+          <option value="pendiente">Pendiente</option>
+          <option value="confirmado">Confirmado</option>
+          <option value="realizado">Realizado</option>
+          <option value="cancelado">Cancelado</option>
+        </select>
+      </label>
+      <label>Observaciones <textarea id="notes" rows="4"></textarea></label>
+      <div class="modal-actions">
+        <button value="cancel" class="ghost">Cancelar</button>
+        <button id="deleteEvent" value="delete" class="danger">Limpiar fecha</button>
+        <button id="saveEvent" value="save" class="primary">Guardar fecha</button>
+      </div>
+    </form>
+  </dialog>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>
