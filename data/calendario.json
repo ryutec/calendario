@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-24T21:04:57.861Z",
+  "updatedAt": "2026-05-24T21:49:07.869Z",
   "events": {
     "2026-09-18": [
       {
@@ -16,6 +16,16 @@
       {
         "school": "escuela",
         "status": "confirmado",
+        "time": "",
+        "contact": "",
+        "phone": "",
+        "notes": ""
+      }
+    ],
+    "2026-09-16": [
+      {
+        "school": "tst",
+        "status": "pendiente",
         "time": "",
         "contact": "",
         "phone": "",
