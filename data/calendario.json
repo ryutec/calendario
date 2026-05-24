@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-24T21:59:54.183Z",
+  "updatedAt": "2026-05-24T23:04:45.779Z",
   "events": {
     "2026-09-18": [
       {
@@ -9,16 +9,6 @@
         "time": "8:00 am",
         "contact": "Jorge Nuñez",
         "phone": "67372885",
-        "notes": ""
-      }
-    ],
-    "2026-09-17": [
-      {
-        "school": "escuela",
-        "status": "confirmado",
-        "time": "",
-        "contact": "",
-        "phone": "",
         "notes": ""
       }
     ],
