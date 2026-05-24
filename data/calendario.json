@@ -1,5 +1,16 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-24T23:08:56.236Z",
-  "events": {}
+  "updatedAt": "2026-05-24T23:09:58.265Z",
+  "events": {
+    "2026-09-18": [
+      {
+        "school": "Primaria Mariato",
+        "status": "confirmado",
+        "time": "8:00 am",
+        "contact": "",
+        "phone": "",
+        "notes": ""
+      }
+    ]
+  }
 }
