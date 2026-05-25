@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-25T21:27:05.743Z",
+  "updatedAt": "2026-05-25T21:28:14.540Z",
   "events": {
     "2026-09-18": [
       {
@@ -126,6 +126,42 @@
       {
         "id": "9bf4b926-8e48-4a49-a03e-4d01847a0770",
         "school": "San Martin Sexto",
+        "time": "8:00 am",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Pendiente"
+      }
+    ],
+    "2026-08-26": [
+      {
+        "id": "e176a23b-9f18-45c5-9ae3-43a7c63b115f",
+        "school": "San Martin Sexto",
+        "time": "8:00 am",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Pendiente"
+      }
+    ],
+    "2026-08-27": [
+      {
+        "id": "c58c684d-141d-4d0e-bad7-3ad281465616",
+        "school": "Escuela la Pena",
+        "time": "8:00 am",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Pendiente"
+      }
+    ],
+    "2026-08-20": [
+      {
+        "id": "f151076b-f5b1-4507-8e63-119a933db2da",
+        "school": "Margarito Mojica",
         "time": "8:00 am",
         "contact": "",
         "photographer": "",
