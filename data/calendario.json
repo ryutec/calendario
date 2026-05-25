@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-25T06:41:01.495Z",
+  "updatedAt": "2026-05-25T06:41:11.139Z",
   "events": {
     "2026-09-18": [
       {
@@ -40,6 +40,18 @@
         "contact": "",
         "phone": "",
         "notes": ""
+      }
+    ],
+    "2026-09-10": [
+      {
+        "id": "e1e10f7a-bcc5-4f56-b71d-3335da149855",
+        "school": "VACACIONES",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Vacaciones"
       }
     ]
   }
