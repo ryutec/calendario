@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-25T06:42:41.880Z",
+  "updatedAt": "2026-05-25T06:42:48.712Z",
   "events": {
     "2026-09-18": [
       {
@@ -22,19 +22,21 @@
         "notes": ""
       }
     ],
-    "2026-09-08": [
-      {
-        "school": "VACACIONES",
-        "status": "bloqueado",
-        "time": "",
-        "contact": "",
-        "phone": "",
-        "notes": ""
-      }
-    ],
     "2026-09-10": [
       {
         "id": "e1e10f7a-bcc5-4f56-b71d-3335da149855",
+        "school": "VACACIONES",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Vacaciones"
+      }
+    ],
+    "2026-09-09": [
+      {
+        "id": "ddcce6af-ad22-4cd9-864a-80c991071a37",
         "school": "VACACIONES",
         "time": "",
         "contact": "",
