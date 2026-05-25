@@ -1,22 +1,12 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-25T06:42:48.712Z",
+  "updatedAt": "2026-05-25T06:42:55.270Z",
   "events": {
     "2026-09-18": [
       {
         "school": "Primaria Mariato",
         "status": "confirmado",
         "time": "8:00 am",
-        "contact": "",
-        "phone": "",
-        "notes": ""
-      }
-    ],
-    "2026-09-07": [
-      {
-        "school": "VACACIONES",
-        "status": "bloqueado",
-        "time": "",
         "contact": "",
         "phone": "",
         "notes": ""
@@ -37,6 +27,18 @@
     "2026-09-09": [
       {
         "id": "ddcce6af-ad22-4cd9-864a-80c991071a37",
+        "school": "VACACIONES",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Vacaciones"
+      }
+    ],
+    "2026-09-08": [
+      {
+        "id": "4a5ba142-8165-4d2b-8438-dda184d5be00",
         "school": "VACACIONES",
         "time": "",
         "contact": "",
