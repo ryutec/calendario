@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-25T06:41:11.139Z",
+  "updatedAt": "2026-05-25T06:42:41.880Z",
   "events": {
     "2026-09-18": [
       {
@@ -23,16 +23,6 @@
       }
     ],
     "2026-09-08": [
-      {
-        "school": "VACACIONES",
-        "status": "bloqueado",
-        "time": "",
-        "contact": "",
-        "phone": "",
-        "notes": ""
-      }
-    ],
-    "2026-09-09": [
       {
         "school": "VACACIONES",
         "status": "bloqueado",
