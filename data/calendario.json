@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-25T21:25:49.415Z",
+  "updatedAt": "2026-05-25T21:27:05.743Z",
   "events": {
     "2026-09-18": [
       {
@@ -91,6 +91,42 @@
         "id": "f0dcb1f4-e295-4365-a882-19ea907a5f76",
         "school": "Escuela la Pena",
         "time": "8:00",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Pendiente"
+      }
+    ],
+    "2026-08-18": [
+      {
+        "id": "fe1bc511-6a94-43c2-b2cb-c4bb655a0201",
+        "school": "Escuela la Pena Sexto",
+        "time": "8:00 am",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Pendiente"
+      }
+    ],
+    "2026-08-19": [
+      {
+        "id": "74264d77-6542-4a6d-86a6-ce6f3b4891e0",
+        "school": "Escuela la Pena Sexto",
+        "time": "8:00 am",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Pendiente"
+      }
+    ],
+    "2026-08-25": [
+      {
+        "id": "9bf4b926-8e48-4a49-a03e-4d01847a0770",
+        "school": "San Martin Sexto",
+        "time": "8:00 am",
         "contact": "",
         "photographer": "",
         "place": "",
