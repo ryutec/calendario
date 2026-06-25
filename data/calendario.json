@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-25T15:49:02.820Z",
+  "updatedAt": "2026-06-25T15:49:05.040Z",
   "events": {
     "2026-09-18": [
       {
@@ -72,18 +72,6 @@
         "place": "",
         "notes": "",
         "status": "Vacaciones"
-      }
-    ],
-    "2026-07-23": [
-      {
-        "id": "f0dcb1f4-e295-4365-a882-19ea907a5f76",
-        "school": "Escuela la Pena",
-        "time": "8:00",
-        "contact": "",
-        "photographer": "",
-        "place": "",
-        "notes": "",
-        "status": "Pendiente"
       }
     ],
     "2026-08-18": [
