@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-02T00:20:19.415Z",
+  "updatedAt": "2026-07-02T00:22:07.747Z",
   "events": {
     "2026-09-18": [
       {
@@ -90,42 +90,6 @@
       {
         "id": "74264d77-6542-4a6d-86a6-ce6f3b4891e0",
         "school": "Escuela la Peña Sexto",
-        "time": "8:00 am",
-        "contact": "",
-        "photographer": "",
-        "place": "",
-        "notes": "",
-        "status": "Pendiente"
-      }
-    ],
-    "2026-08-25": [
-      {
-        "id": "9bf4b926-8e48-4a49-a03e-4d01847a0770",
-        "school": "San Martin Sexto",
-        "time": "8:00 am",
-        "contact": "",
-        "photographer": "",
-        "place": "",
-        "notes": "",
-        "status": "Pendiente"
-      }
-    ],
-    "2026-08-26": [
-      {
-        "id": "e176a23b-9f18-45c5-9ae3-43a7c63b115f",
-        "school": "San Martin Sexto",
-        "time": "8:00 am",
-        "contact": "",
-        "photographer": "",
-        "place": "",
-        "notes": "",
-        "status": "Pendiente"
-      }
-    ],
-    "2026-08-27": [
-      {
-        "id": "c58c684d-141d-4d0e-bad7-3ad281465616",
-        "school": "Escuela la Pena",
         "time": "8:00 am",
         "contact": "",
         "photographer": "",
@@ -258,6 +222,40 @@
       {
         "id": "07054e8c-3758-4125-82aa-435d550f96a9",
         "school": "Punta Delgadita 2 Kinder",
+        "time": "7:30",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Pendiente"
+      }
+    ],
+    "2026-08-20": [
+      {
+        "id": "5efbe7f6-d717-43c0-817c-8a8d37f93e9e",
+        "school": "La Peña 2 prekinder",
+        "time": "7:30",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Pendiente"
+      },
+      {
+        "id": "3ad28ada-1817-4cfd-bb48-9f12b25f2fa1",
+        "school": "La Peña 2 Prekinder y 1 kinder",
+        "time": "12:00",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Pendiente"
+      }
+    ],
+    "2026-08-21": [
+      {
+        "id": "045bb253-968d-4e74-b52a-ae54f83392a1",
+        "school": "La Peña 2 Kinder",
         "time": "7:30",
         "contact": "",
         "photographer": "",
