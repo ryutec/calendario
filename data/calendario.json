@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-02T00:22:07.747Z",
+  "updatedAt": "2026-07-02T00:29:38.670Z",
   "events": {
     "2026-09-18": [
       {
         "id": "ev_20260918_0_110qye",
-        "school": "Primaria Mariato",
+        "school": "Primaria Mariato - 6to y kinder",
         "time": "8:00 am",
         "contact": "",
         "photographer": "",
@@ -257,6 +257,198 @@
         "id": "045bb253-968d-4e74-b52a-ae54f83392a1",
         "school": "La Peña 2 Kinder",
         "time": "7:30",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Pendiente"
+      }
+    ],
+    "2026-08-27": [
+      {
+        "id": "519b6402-5ce8-4dac-9ebf-f76adab2bda2",
+        "school": "Punta Delgadita 2 6to",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Pendiente"
+      }
+    ],
+    "2026-08-28": [
+      {
+        "id": "114254f9-f514-413a-9461-af6aea4e88f5",
+        "school": "La concepción",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Pendiente"
+      }
+    ],
+    "2026-09-02": [
+      {
+        "id": "60aeaf6f-5606-4990-a736-2afff1069e43",
+        "school": "Cañacilla -Prekinder y Kinder",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Pendiente"
+      }
+    ],
+    "2026-09-03": [
+      {
+        "id": "a7dd2b47-0466-4775-8741-1d0ba94824cf",
+        "school": "Los Castillos",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Pendiente"
+      }
+    ],
+    "2026-09-15": [
+      {
+        "id": "d5d16bdf-a535-44e0-a802-0a9f5d94d961",
+        "school": "San Martin - 2 6to",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Pendiente"
+      }
+    ],
+    "2026-09-16": [
+      {
+        "id": "3e248be6-d507-4381-b327-b22eec24c6a0",
+        "school": "San Martin - 2 6to",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Pendiente"
+      }
+    ],
+    "2026-09-17": [
+      {
+        "id": "1ff28aec-6aeb-4546-8d4d-810e5efdef50",
+        "school": "San Martin - 1 6to y los que queden pendiente",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Pendiente"
+      }
+    ],
+    "2026-09-22": [
+      {
+        "id": "c028ede8-f240-4a29-97a4-588c85006a9b",
+        "school": "Mida - Prekinder",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Pendiente"
+      }
+    ],
+    "2026-09-23": [
+      {
+        "id": "c4ddaf25-663c-4789-a55e-c338d24a9a0f",
+        "school": "Mida - Kinder",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Pendiente"
+      }
+    ],
+    "2026-09-24": [
+      {
+        "id": "f8233172-e162-4f83-be24-b742049d14b7",
+        "school": "Los Balsas",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Pendiente"
+      }
+    ],
+    "2026-09-25": [
+      {
+        "id": "77e783d8-8d7b-4470-aab3-186ffd72ad28",
+        "school": "Los Algarrobos- 1 kinder",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Pendiente"
+      }
+    ],
+    "2026-10-01": [
+      {
+        "id": "6621109a-711a-4160-a9e5-17517aaf54f1",
+        "school": "Faith and Hope - prekinder y kinder",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Pendiente"
+      }
+    ],
+    "2026-10-02": [
+      {
+        "id": "5bcaac49-735d-4c40-a27e-3b6ca9a588ee",
+        "school": "Cuidadito- 2 Maternal",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Pendiente"
+      }
+    ],
+    "2026-10-28": [
+      {
+        "id": "5bd3cb55-45c9-454b-b57d-7283bf1f1eb6",
+        "school": "Palo Verde - Kinder y 6to",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Pendiente"
+      }
+    ],
+    "2026-10-29": [
+      {
+        "id": "880140f7-63d6-4334-a848-558a9a3cefe4",
+        "school": "Caipi Carrusel",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Pendiente"
+      }
+    ],
+    "2026-12-06": [
+      {
+        "id": "6f50476a-af43-47e6-a546-3472f56c8371",
+        "school": "Graduación Faith and Hope",
+        "time": "",
         "contact": "",
         "photographer": "",
         "place": "",
