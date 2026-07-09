@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-09T16:48:57.089Z",
+  "updatedAt": "2026-07-09T16:49:00.846Z",
   "events": {
     "2026-09-18": [
       {
@@ -127,18 +127,6 @@
         "id": "372c3558-2330-4a9d-995f-f512275e07cc",
         "school": "La Colorada - kinder y 6to",
         "time": "7:30",
-        "contact": "",
-        "photographer": "",
-        "place": "",
-        "notes": "",
-        "status": "Pendiente"
-      }
-    ],
-    "2026-08-08": [
-      {
-        "id": "18ef0ad0-a8b7-41ff-bc52-04967a1c348e",
-        "school": "Viaje a Colombia",
-        "time": "",
         "contact": "",
         "photographer": "",
         "place": "",
