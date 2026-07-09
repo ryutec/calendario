@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-09T16:48:55.294Z",
+  "updatedAt": "2026-07-09T16:48:57.089Z",
   "events": {
     "2026-09-18": [
       {
@@ -149,18 +149,6 @@
     "2026-08-09": [
       {
         "id": "4103c8f5-7ab1-4393-ae6d-7f48abca780b",
-        "school": "Viaje a Colombia",
-        "time": "",
-        "contact": "",
-        "photographer": "",
-        "place": "",
-        "notes": "",
-        "status": "Pendiente"
-      }
-    ],
-    "2026-08-10": [
-      {
-        "id": "11ae15c5-d3f8-4ac7-8603-eac6bccbfe63",
         "school": "Viaje a Colombia",
         "time": "",
         "contact": "",
