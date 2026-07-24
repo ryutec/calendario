@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-09T16:49:10.787Z",
+  "updatedAt": "2026-07-24T14:09:36.726Z",
   "events": {
     "2026-09-18": [
       {
@@ -91,18 +91,6 @@
         "id": "74264d77-6542-4a6d-86a6-ce6f3b4891e0",
         "school": "Escuela la Peña Sexto",
         "time": "8:00 am",
-        "contact": "",
-        "photographer": "",
-        "place": "",
-        "notes": "",
-        "status": "Pendiente"
-      }
-    ],
-    "2026-07-28": [
-      {
-        "id": "a7ee0b32-8c6f-46e2-ac41-a6684524b7f1",
-        "school": "El Embalsadero",
-        "time": "7:30 am",
         "contact": "",
         "photographer": "",
         "place": "",
