@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-13T22:58:47.502Z",
+  "updatedAt": "2026-08-13T23:37:26.674Z",
   "events": {
     "2026-09-18": [
       {
@@ -119,7 +119,7 @@
         "photographer": "",
         "place": "",
         "notes": "",
-        "status": "Confirmado"
+        "status": "Pagado"
       }
     ],
     "2026-08-13": [
@@ -131,7 +131,7 @@
         "photographer": "",
         "place": "",
         "notes": "",
-        "status": "Confirmado"
+        "status": "Pagado"
       }
     ],
     "2026-08-14": [
@@ -355,7 +355,7 @@
         "photographer": "",
         "place": "",
         "notes": "",
-        "status": "Pendiente"
+        "status": "Confirmado"
       }
     ],
     "2026-08-24": [
@@ -810,6 +810,102 @@
       {
         "id": "12321cb5-f83d-46ba-9a92-1fdb727113d6",
         "school": "Iphe Sona",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Confirmado"
+      }
+    ],
+    "2026-07-30": [
+      {
+        "id": "da7c04f9-f111-4a6b-8f6d-3b5d508741f9",
+        "school": "El Embalsadero",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Pagado"
+      }
+    ],
+    "2026-11-10": [
+      {
+        "id": "9695096b-3a43-44fd-a390-a3f2d56ac81b",
+        "school": "Libre",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Vacaciones"
+      }
+    ],
+    "2026-11-09": [
+      {
+        "id": "6b799152-b898-4380-bf01-e729eaeb5b0e",
+        "school": "Libre",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Vacaciones"
+      }
+    ],
+    "2026-11-05": [
+      {
+        "id": "e71b2b35-4e4b-420f-aaf9-0f2f01ad5716",
+        "school": "Libre",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Vacaciones"
+      }
+    ],
+    "2026-11-04": [
+      {
+        "id": "66620e0c-96ca-483f-8a5f-fa0c5932339b",
+        "school": "Libre",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Vacaciones"
+      }
+    ],
+    "2026-11-03": [
+      {
+        "id": "95459d52-f828-488c-8412-8f3836be0432",
+        "school": "Libre",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Vacaciones"
+      }
+    ],
+    "2026-11-02": [
+      {
+        "id": "8e3eb482-c405-45ba-bfa3-360f95e8eb30",
+        "school": "Libre",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Vacaciones"
+      }
+    ],
+    "2026-12-11": [
+      {
+        "id": "752200a9-f0f5-49b7-8842-3d1013633853",
+        "school": "Graduación Policia",
         "time": "",
         "contact": "",
         "photographer": "",
