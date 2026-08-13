@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-13T22:36:14.619Z",
+  "updatedAt": "2026-08-13T22:36:18.771Z",
   "events": {
     "2026-09-18": [
       {
@@ -115,18 +115,6 @@
         "id": "372c3558-2330-4a9d-995f-f512275e07cc",
         "school": "La Colorada - kinder y 6to",
         "time": "7:30",
-        "contact": "",
-        "photographer": "",
-        "place": "",
-        "notes": "",
-        "status": "Pendiente"
-      }
-    ],
-    "2026-08-12": [
-      {
-        "id": "64d23f1b-6b3d-42e8-9841-dc17920550bf",
-        "school": "LIBRE",
-        "time": "",
         "contact": "",
         "photographer": "",
         "place": "",
