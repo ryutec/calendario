@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-13T22:42:38.064Z",
+  "updatedAt": "2026-08-13T22:43:44.612Z",
   "events": {
     "2026-09-18": [
       {
@@ -297,7 +297,17 @@
         "photographer": "",
         "place": "",
         "notes": "",
-        "status": "Pendiente"
+        "status": "Confirmado"
+      },
+      {
+        "id": "90b4fc34-378f-419b-a8b3-9f28daf995b4",
+        "school": "Los Balsas",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Confirmado"
       }
     ],
     "2026-10-01": [
@@ -446,6 +456,18 @@
       {
         "id": "376efd14-3f4c-481c-b47d-22288102acf1",
         "school": "6TO, Prek, kinder Las Barreras",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Confirmado"
+      }
+    ],
+    "2026-09-24": [
+      {
+        "id": "e32f630d-e9f7-4eaa-91ce-e3afab27159d",
+        "school": "2 Grupos de 6to Ruben Dario",
         "time": "",
         "contact": "",
         "photographer": "",
