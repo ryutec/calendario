@@ -1,12 +1,22 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-13T23:37:26.674Z",
+  "updatedAt": "2026-08-13T23:45:05.973Z",
   "events": {
     "2026-09-18": [
       {
         "id": "ev_20260918_0_110qye",
         "school": "Primaria Mariato - 6to y kinder",
         "time": "8:00 am",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Confirmado"
+      },
+      {
+        "id": "290282b6-e2fa-4999-a3a2-0cb06f98fbbd",
+        "school": "Mantenimiento de Camaras",
+        "time": "",
         "contact": "",
         "photographer": "",
         "place": "",
@@ -404,6 +414,16 @@
         "place": "",
         "notes": "",
         "status": "Confirmado"
+      },
+      {
+        "id": "06a311c5-a483-4e58-a81c-ec30c445703e",
+        "school": "La Concepción",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Confirmado"
       }
     ],
     "2026-09-01": [
@@ -503,7 +523,7 @@
     "2026-10-05": [
       {
         "id": "872b7964-c172-40cf-aebf-ef4caf61739d",
-        "school": "Turno de la mañana  2 grupos",
+        "school": "CANOVAS Turno de la mañana  2 grupos",
         "time": "",
         "contact": "",
         "photographer": "",
@@ -513,7 +533,7 @@
       },
       {
         "id": "f30866c3-4c0c-4d41-9e8e-5db6db9f1740",
-        "school": "Turno de la tarde  3 grupos",
+        "school": "CANOVAS Turno de la tarde  3 grupos",
         "time": "",
         "contact": "",
         "photographer": "",
@@ -525,7 +545,7 @@
     "2026-10-06": [
       {
         "id": "81eb8d03-5eee-440c-980a-33a77b81957b",
-        "school": "Turno de la mañana  3 grupos",
+        "school": "CANOVAS Turno de la mañana  3 grupos",
         "time": "",
         "contact": "",
         "photographer": "",
@@ -535,7 +555,7 @@
       },
       {
         "id": "a98a21bd-b8a3-413c-98b5-90b3d4182935",
-        "school": "Turno de la tarde 2 grupos",
+        "school": "CANOVAS Turno de la tarde 2 grupos",
         "time": "",
         "contact": "",
         "photographer": "",
@@ -595,7 +615,7 @@
     "2026-10-14": [
       {
         "id": "459ec89e-df9b-46e3-a386-a744923f4435",
-        "school": "Secundaria de La Mesa 6TO A Y B",
+        "school": "Secundaria de La Mesa 9NO A Y B",
         "time": "",
         "contact": "",
         "photographer": "",
@@ -607,7 +627,7 @@
     "2026-10-15": [
       {
         "id": "f02b5fe0-cf0a-446f-90cb-6102d789dd25",
-        "school": "Secundaria de La Mesa 6TO C Y D",
+        "school": "Secundaria de La Mesa 9NO C Y D",
         "time": "",
         "contact": "",
         "photographer": "",
@@ -912,6 +932,28 @@
         "place": "",
         "notes": "",
         "status": "Confirmado"
+      },
+      {
+        "id": "d58aaaff-4785-40a8-995b-2e05aa8e5ce6",
+        "school": "CENA SAN VICENTE",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Confirmado"
+      }
+    ],
+    "2026-08-22": [
+      {
+        "id": "e12c581e-7641-4a01-9450-4ce3298e9217",
+        "school": "Mantenimiento Torio",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Pendiente"
       }
     ]
   }
