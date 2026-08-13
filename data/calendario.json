@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-24T14:09:36.726Z",
+  "updatedAt": "2026-08-13T22:36:14.619Z",
   "events": {
     "2026-09-18": [
       {
@@ -208,18 +208,6 @@
       {
         "id": "519b6402-5ce8-4dac-9ebf-f76adab2bda2",
         "school": "Punta Delgadita 2 6to",
-        "time": "",
-        "contact": "",
-        "photographer": "",
-        "place": "",
-        "notes": "",
-        "status": "Pendiente"
-      }
-    ],
-    "2026-08-28": [
-      {
-        "id": "114254f9-f514-413a-9461-af6aea4e88f5",
-        "school": "La concepción",
         "time": "",
         "contact": "",
         "photographer": "",
