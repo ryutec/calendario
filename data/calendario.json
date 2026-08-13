@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-13T22:54:16.300Z",
+  "updatedAt": "2026-08-13T22:58:47.502Z",
   "events": {
     "2026-09-18": [
       {
@@ -692,6 +692,124 @@
       {
         "id": "28831310-fdaa-414f-98fd-4ff42630f554",
         "school": "Palo Verde - Kinder y 6to",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Confirmado"
+      }
+    ],
+    "2026-10-28": [
+      {
+        "id": "309a0e2e-6b2f-48b0-9685-e11a4865e1b2",
+        "school": "Belisario Villar D y E",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Confirmado"
+      }
+    ],
+    "2026-11-13": [
+      {
+        "id": "01627d77-3d83-46f2-8411-16238a6c6109",
+        "school": "Mi Sabiduria prek, kinder y 6to",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Confirmado"
+      }
+    ],
+    "2026-11-12": [
+      {
+        "id": "a283d972-14cd-46e0-839b-db20759211d0",
+        "school": "La Raya kinder y 6to",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Confirmado"
+      }
+    ],
+    "2026-11-11": [
+      {
+        "id": "97432c43-7110-4e88-982b-bf1721ca0979",
+        "school": "Los Algarrobos Prekinder mañana",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Confirmado"
+      },
+      {
+        "id": "bf0fff01-4845-467a-bb1f-a6b0389aec40",
+        "school": "Los Algarrobos kinder tarde",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Confirmado"
+      }
+    ],
+    "2026-11-16": [
+      {
+        "id": "275f404a-a93e-4a5a-bac4-bc711fac9799",
+        "school": "Buenos Aires",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Confirmado"
+      }
+    ],
+    "2026-11-17": [
+      {
+        "id": "a2ec0dce-0594-4085-8ad2-e8391b5b6dbe",
+        "school": "Primaria La Mesa",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Confirmado"
+      }
+    ],
+    "2026-11-18": [
+      {
+        "id": "7e623eb2-258e-42f6-a9d9-144f28de8466",
+        "school": "Jose de la cruz merida - Prekinder",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Confirmado"
+      }
+    ],
+    "2026-11-19": [
+      {
+        "id": "4bc3c86e-3635-440d-9919-98025be0cd6b",
+        "school": "Jose de la cruz Merida - kinder",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Confirmado"
+      }
+    ],
+    "2026-11-20": [
+      {
+        "id": "12321cb5-f83d-46ba-9a92-1fdb727113d6",
+        "school": "Iphe Sona",
         "time": "",
         "contact": "",
         "photographer": "",
