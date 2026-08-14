@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-13T23:49:22.810Z",
+  "updatedAt": "2026-08-14T00:33:41.628Z",
   "events": {
     "2026-09-18": [
       {
@@ -718,6 +718,16 @@
         "place": "",
         "notes": "",
         "status": "Confirmado"
+      },
+      {
+        "id": "33329fb8-02cc-404f-8a52-6e2b568f26a9",
+        "school": "Boro",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Pendiente"
       }
     ],
     "2026-10-28": [
@@ -776,6 +786,16 @@
         "place": "",
         "notes": "",
         "status": "Confirmado"
+      },
+      {
+        "id": "07c31b4f-a219-4b52-b273-2f975668b738",
+        "school": "Las Barreras",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Pendiente"
       }
     ],
     "2026-11-16": [
@@ -948,6 +968,122 @@
       {
         "id": "e12c581e-7641-4a01-9450-4ce3298e9217",
         "school": "Mantenimiento Torio",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Pendiente"
+      }
+    ],
+    "2026-11-06": [
+      {
+        "id": "11e1da45-a0a0-4b78-bb40-08ebeeb5d8dc",
+        "school": "La Subidita",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Pendiente"
+      },
+      {
+        "id": "268916fc-5763-4477-b692-91ffa0ef7607",
+        "school": "San Pedro Rincon",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Pendiente"
+      }
+    ],
+    "2026-11-23": [
+      {
+        "id": "d1b05ae8-e7a9-43a3-a4d1-83cb6529c674",
+        "school": "LAS ANIMAS DE BORO",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Pendiente"
+      }
+    ],
+    "2026-11-24": [
+      {
+        "id": "c29394cc-1dad-4d78-8129-d228470e90eb",
+        "school": "LAS PALMAS",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Pendiente"
+      }
+    ],
+    "2026-11-25": [
+      {
+        "id": "63d15a98-bf0c-453b-92d9-0be1fa443989",
+        "school": "EL ESPINO",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Pendiente"
+      }
+    ],
+    "2026-11-26": [
+      {
+        "id": "9a5feda8-9e11-4b61-8827-659e70ceed42",
+        "school": "EL BARRITO",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Pendiente"
+      }
+    ],
+    "2026-11-27": [
+      {
+        "id": "a2e55a39-3847-4920-b06e-5c8711402d3b",
+        "school": "CAIPI LA PEÑA",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Pendiente"
+      }
+    ],
+    "2026-11-30": [
+      {
+        "id": "51cdbdc9-c6eb-4e9e-bc36-3ed8fb624be4",
+        "school": "Caipi Guarumal",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Pendiente"
+      },
+      {
+        "id": "a2b3f576-71aa-4d07-bd32-afe38521a9d6",
+        "school": "Caipi Rio",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Pendiente"
+      }
+    ],
+    "2026-12-02": [
+      {
+        "id": "6b6e4de5-9bdf-4b18-9f06-27c90969d2aa",
+        "school": "Caipi Cerro Plata",
         "time": "",
         "contact": "",
         "photographer": "",
