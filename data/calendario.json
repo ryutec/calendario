@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-17T05:16:56.197Z",
+  "updatedAt": "2026-08-17T19:44:22.748Z",
   "events": {
     "2026-09-18": [
       {
@@ -1008,18 +1008,6 @@
         "place": "",
         "notes": "",
         "status": "Confirmado"
-      }
-    ],
-    "2026-11-24": [
-      {
-        "id": "c29394cc-1dad-4d78-8129-d228470e90eb",
-        "school": "LAS PALMAS",
-        "time": "",
-        "contact": "",
-        "photographer": "",
-        "place": "",
-        "notes": "",
-        "status": "Pendiente"
       }
     ],
     "2026-11-25": [
