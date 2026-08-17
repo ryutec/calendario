@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-14T16:10:32.103Z",
+  "updatedAt": "2026-08-17T05:16:53.773Z",
   "events": {
     "2026-09-18": [
       {
@@ -153,7 +153,7 @@
         "photographer": "",
         "place": "",
         "notes": "",
-        "status": "Confirmado"
+        "status": "Pagado"
       }
     ],
     "2026-08-17": [
@@ -985,7 +985,7 @@
         "photographer": "",
         "place": "",
         "notes": "",
-        "status": "Pendiente"
+        "status": "Confirmado"
       },
       {
         "id": "268916fc-5763-4477-b692-91ffa0ef7607",
@@ -995,7 +995,7 @@
         "photographer": "",
         "place": "",
         "notes": "",
-        "status": "Pendiente"
+        "status": "Confirmado"
       }
     ],
     "2026-11-23": [
@@ -1007,7 +1007,7 @@
         "photographer": "",
         "place": "",
         "notes": "",
-        "status": "Pendiente"
+        "status": "Confirmado"
       }
     ],
     "2026-11-24": [
@@ -1031,7 +1031,7 @@
         "photographer": "",
         "place": "",
         "notes": "",
-        "status": "Pendiente"
+        "status": "Confirmado"
       }
     ],
     "2026-11-26": [
@@ -1055,7 +1055,7 @@
         "photographer": "",
         "place": "",
         "notes": "",
-        "status": "Pendiente"
+        "status": "Confirmado"
       },
       {
         "id": "a2b3f576-71aa-4d07-bd32-afe38521a9d6",
@@ -1065,7 +1065,7 @@
         "photographer": "",
         "place": "",
         "notes": "",
-        "status": "Pendiente"
+        "status": "Confirmado"
       }
     ],
     "2026-12-02": [
@@ -1084,6 +1084,18 @@
       {
         "id": "6c99a410-7352-41b2-bdbc-838155aeceeb",
         "school": "Caipi la peña",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Confirmado"
+      }
+    ],
+    "2026-11-27": [
+      {
+        "id": "21693d92-4cc9-4cb5-a27c-f22faf374b07",
+        "school": "MONTIJO PREKINDER",
         "time": "",
         "contact": "",
         "photographer": "",
