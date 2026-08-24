@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-17T20:13:05.421Z",
+  "updatedAt": "2026-08-24T02:29:34.933Z",
   "events": {
     "2026-09-18": [
       {
@@ -93,7 +93,7 @@
         "photographer": "",
         "place": "",
         "notes": "",
-        "status": "Confirmado"
+        "status": "Pagado"
       }
     ],
     "2026-08-19": [
@@ -105,7 +105,7 @@
         "photographer": "",
         "place": "",
         "notes": "",
-        "status": "Confirmado"
+        "status": "Pagado"
       }
     ],
     "2026-07-09": [
@@ -165,7 +165,7 @@
         "photographer": "",
         "place": "",
         "notes": "",
-        "status": "Confirmado"
+        "status": "Pagado"
       }
     ],
     "2026-08-20": [
@@ -177,7 +177,7 @@
         "photographer": "",
         "place": "",
         "notes": "",
-        "status": "Confirmado"
+        "status": "Pagado"
       },
       {
         "id": "3ad28ada-1817-4cfd-bb48-9f12b25f2fa1",
@@ -187,7 +187,7 @@
         "photographer": "",
         "place": "",
         "notes": "",
-        "status": "Confirmado"
+        "status": "Pagado"
       }
     ],
     "2026-08-21": [
@@ -199,7 +199,7 @@
         "photographer": "",
         "place": "",
         "notes": "",
-        "status": "Confirmado"
+        "status": "Pagado"
       }
     ],
     "2026-08-27": [
@@ -973,7 +973,7 @@
         "photographer": "",
         "place": "",
         "notes": "",
-        "status": "Pendiente"
+        "status": "Pagado"
       }
     ],
     "2026-11-06": [
