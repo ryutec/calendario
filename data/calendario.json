@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T02:30:23.539Z",
+  "updatedAt": "2026-08-28T03:51:20.274Z",
   "events": {
     "2026-09-18": [
       {
@@ -211,7 +211,7 @@
         "photographer": "",
         "place": "",
         "notes": "",
-        "status": "Confirmado"
+        "status": "Pagado"
       }
     ],
     "2026-09-02": [
@@ -377,7 +377,7 @@
         "photographer": "",
         "place": "",
         "notes": "",
-        "status": "Confirmado"
+        "status": "Pagado"
       }
     ],
     "2026-08-25": [
@@ -389,7 +389,7 @@
         "photographer": "",
         "place": "",
         "notes": "",
-        "status": "Confirmado"
+        "status": "Pagado"
       }
     ],
     "2026-08-26": [
@@ -401,7 +401,7 @@
         "photographer": "",
         "place": "",
         "notes": "",
-        "status": "Confirmado"
+        "status": "Pagado"
       }
     ],
     "2026-08-31": [
