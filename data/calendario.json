@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-28T03:51:25.152Z",
+  "updatedAt": "2026-08-28T15:58:37.455Z",
   "events": {
     "2026-09-18": [
       {
@@ -470,6 +470,16 @@
         "place": "",
         "notes": "",
         "status": "Confirmado"
+      },
+      {
+        "id": "51225019-e5c1-467f-8b2b-016b9e7227d7",
+        "school": "Las barreras la mañana",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Confirmado"
       }
     ],
     "2026-09-24": [
@@ -727,7 +737,7 @@
         "photographer": "",
         "place": "",
         "notes": "",
-        "status": "Pendiente"
+        "status": "Confirmado"
       }
     ],
     "2026-10-28": [
@@ -1031,7 +1041,7 @@
         "photographer": "",
         "place": "",
         "notes": "",
-        "status": "Pendiente"
+        "status": "Confirmado"
       }
     ],
     "2026-11-30": [
@@ -1084,6 +1094,52 @@
       {
         "id": "21693d92-4cc9-4cb5-a27c-f22faf374b07",
         "school": "MONTIJO PREKINDER",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Confirmado"
+      },
+      {
+        "id": "577422cc-e9d2-4639-85bc-6dc30810534b",
+        "school": "Rincon largo de la peña",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Confirmado"
+      }
+    ],
+    "2026-11-24": [
+      {
+        "id": "5f5a59d1-10af-4398-8f1a-1ce611ac954d",
+        "school": "San jose sexto",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Confirmado"
+      }
+    ],
+    "2026-10-07": [
+      {
+        "id": "1672f5fb-185d-469a-92a3-50f1637ab1c7",
+        "school": "Bonifacio doble turno",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Confirmado"
+      }
+    ],
+    "2026-10-16": [
+      {
+        "id": "08ec64a2-33b5-4cc4-958d-0f29ccfc5bc6",
+        "school": "Bonifacio doble turno",
         "time": "",
         "contact": "",
         "photographer": "",
