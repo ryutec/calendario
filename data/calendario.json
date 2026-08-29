@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-29T21:17:01.358Z",
+  "updatedAt": "2026-08-29T21:17:16.042Z",
   "events": {
     "2026-09-18": [
       {
@@ -266,6 +266,16 @@
       {
         "id": "1ff28aec-6aeb-4546-8d4d-810e5efdef50",
         "school": "San Martin - 1 6to y los que queden pendiente",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Confirmado"
+      },
+      {
+        "id": "f4778d29-bb14-47ac-a2cb-42b746e89350",
+        "school": "El marañon",
         "time": "",
         "contact": "",
         "photographer": "",
