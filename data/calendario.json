@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-28T15:58:37.455Z",
+  "updatedAt": "2026-08-29T21:17:01.358Z",
   "events": {
     "2026-09-18": [
       {
@@ -405,16 +405,6 @@
       }
     ],
     "2026-08-31": [
-      {
-        "id": "ac7c28a3-9aca-4ecd-aafa-60dd26b5cb23",
-        "school": "El Marañon",
-        "time": "",
-        "contact": "",
-        "photographer": "",
-        "place": "",
-        "notes": "",
-        "status": "Confirmado"
-      },
       {
         "id": "06a311c5-a483-4e58-a81c-ec30c445703e",
         "school": "La Concepción",
