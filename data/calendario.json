@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-29T21:17:16.042Z",
+  "updatedAt": "2026-09-01T20:25:00.431Z",
   "events": {
     "2026-09-18": [
       {
@@ -1140,6 +1140,18 @@
       {
         "id": "08ec64a2-33b5-4cc4-958d-0f29ccfc5bc6",
         "school": "Bonifacio doble turno",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Confirmado"
+      }
+    ],
+    "2026-12-18": [
+      {
+        "id": "89f91ed8-9873-4f33-a829-322c97191db0",
+        "school": "Mis primeros pasos",
         "time": "",
         "contact": "",
         "photographer": "",
