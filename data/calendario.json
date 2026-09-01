@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-01T20:25:00.431Z",
+  "updatedAt": "2026-09-01T20:35:05.277Z",
   "events": {
     "2026-09-18": [
       {
@@ -796,16 +796,6 @@
         "place": "",
         "notes": "",
         "status": "Confirmado"
-      },
-      {
-        "id": "07c31b4f-a219-4b52-b273-2f975668b738",
-        "school": "Las Barreras",
-        "time": "",
-        "contact": "",
-        "photographer": "",
-        "place": "",
-        "notes": "",
-        "status": "Pendiente"
       }
     ],
     "2026-11-16": [
