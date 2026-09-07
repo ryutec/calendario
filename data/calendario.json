@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-01T20:35:05.277Z",
+  "updatedAt": "2026-09-07T20:24:54.543Z",
   "events": {
     "2026-09-18": [
       {
@@ -212,18 +212,6 @@
         "place": "",
         "notes": "",
         "status": "Pagado"
-      }
-    ],
-    "2026-09-02": [
-      {
-        "id": "60aeaf6f-5606-4990-a736-2afff1069e43",
-        "school": "Cañacilla -Prekinder y Kinder",
-        "time": "",
-        "contact": "",
-        "photographer": "",
-        "place": "",
-        "notes": "",
-        "status": "Confirmado"
       }
     ],
     "2026-09-03": [
