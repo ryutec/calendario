@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T20:24:54.543Z",
+  "updatedAt": "2026-09-22T17:26:32.912Z",
   "events": {
     "2026-09-18": [
       {
@@ -784,6 +784,16 @@
         "place": "",
         "notes": "",
         "status": "Confirmado"
+      },
+      {
+        "id": "77d32d5e-48e7-45a5-a6f9-32199402ed76",
+        "school": "San juan",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Pendiente"
       }
     ],
     "2026-11-16": [
