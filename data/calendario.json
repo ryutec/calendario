@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-22T19:04:54.246Z",
+  "updatedAt": "2026-09-29T00:05:03.047Z",
   "events": {
     "2026-09-18": [
       {
@@ -418,18 +418,6 @@
       {
         "id": "dbbf548a-5111-49ca-a662-7abc3cdfa0f8",
         "school": "Mis Primeros Pasos",
-        "time": "",
-        "contact": "",
-        "photographer": "",
-        "place": "",
-        "notes": "",
-        "status": "Confirmado"
-      }
-    ],
-    "2026-09-14": [
-      {
-        "id": "e325da00-81b1-42be-aab1-99bebb031815",
-        "school": "2 Grupos de 6to Ruben Dario",
         "time": "",
         "contact": "",
         "photographer": "",
