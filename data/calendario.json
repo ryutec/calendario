@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-01T00:53:21.121Z",
+  "updatedAt": "2026-10-01T15:41:08.166Z",
   "events": {
     "2026-09-18": [
       {
@@ -346,18 +346,6 @@
       {
         "id": "880140f7-63d6-4334-a848-558a9a3cefe4",
         "school": "Caipi Carrusel",
-        "time": "",
-        "contact": "",
-        "photographer": "",
-        "place": "",
-        "notes": "",
-        "status": "Confirmado"
-      }
-    ],
-    "2026-12-06": [
-      {
-        "id": "6f50476a-af43-47e6-a546-3472f56c8371",
-        "school": "Graduación Faith and Hope",
         "time": "",
         "contact": "",
         "photographer": "",
@@ -1178,6 +1166,18 @@
         "place": "",
         "notes": "",
         "status": "Pendiente"
+      }
+    ],
+    "2026-12-07": [
+      {
+        "id": "78936b15-1e5d-418d-9cb3-fdfd8e58c071",
+        "school": "Faith and hope",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Confirmado"
       }
     ]
   }
