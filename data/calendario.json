@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-01T00:34:30.157Z",
+  "updatedAt": "2026-10-01T00:46:30.334Z",
   "events": {
     "2026-09-18": [
       {
@@ -1086,6 +1086,16 @@
         "place": "",
         "notes": "",
         "status": "Confirmado"
+      },
+      {
+        "id": "5a3f9c4d-7703-465d-8a51-128b2201e310",
+        "school": "El UVITO",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Pendiente"
       }
     ],
     "2026-10-07": [
