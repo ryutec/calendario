@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-01T00:33:07.467Z",
+  "updatedAt": "2026-10-01T00:33:56.953Z",
   "events": {
     "2026-09-18": [
       {
@@ -646,6 +646,16 @@
         "place": "",
         "notes": "",
         "status": "Confirmado"
+      },
+      {
+        "id": "cce79021-70b5-4bd5-8a0c-a186c3a5b720",
+        "school": "Miguel Alba 12VO",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Pendiente"
       }
     ],
     "2026-10-26": [
@@ -1118,6 +1128,40 @@
       {
         "id": "456e2db1-fc4d-4b6d-ac41-495e6d5980b2",
         "school": "Bonifacio",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Pendiente"
+      }
+    ],
+    "2026-10-05": [
+      {
+        "id": "0e5d4d29-9699-480c-9125-bf97b1b2a269",
+        "school": "cañacilla",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Pendiente"
+      },
+      {
+        "id": "e5623d6b-c432-43f0-beed-734260946192",
+        "school": "foto de grupo de ruben dario",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Pendiente"
+      }
+    ],
+    "2026-10-23": [
+      {
+        "id": "55c1b2bc-e331-469e-be2f-1f0b475b44df",
+        "school": "San Pablo",
         "time": "",
         "contact": "",
         "photographer": "",
