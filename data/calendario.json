@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27T22:52:12.605Z",
+  "updatedAt": "2026-10-27T22:53:01.848Z",
   "events": {
     "2026-09-18": [
       {
@@ -334,18 +334,6 @@
       {
         "id": "5bcaac49-735d-4c40-a27e-3b6ca9a588ee",
         "school": "Cuidadito- 2 Maternal",
-        "time": "",
-        "contact": "",
-        "photographer": "",
-        "place": "",
-        "notes": "",
-        "status": "Confirmado"
-      }
-    ],
-    "2026-10-29": [
-      {
-        "id": "880140f7-63d6-4334-a848-558a9a3cefe4",
-        "school": "Caipi Carrusel",
         "time": "",
         "contact": "",
         "photographer": "",
