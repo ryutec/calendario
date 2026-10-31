@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27T22:53:01.848Z",
+  "updatedAt": "2026-10-31T19:57:55.385Z",
   "events": {
     "2026-09-18": [
       {
@@ -1156,6 +1156,18 @@
         "place": "",
         "notes": "",
         "status": "Confirmado"
+      }
+    ],
+    "2026-12-05": [
+      {
+        "id": "4ebff214-9e07-4cda-b800-1dac174c25ce",
+        "school": "San vicente",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Pendiente"
       }
     ]
   }
