@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T19:57:55.385Z",
+  "updatedAt": "2026-11-02T16:17:07.436Z",
   "events": {
     "2026-09-18": [
       {
@@ -764,18 +764,6 @@
       {
         "id": "a2ec0dce-0594-4085-8ad2-e8391b5b6dbe",
         "school": "Primaria La Mesa",
-        "time": "",
-        "contact": "",
-        "photographer": "",
-        "place": "",
-        "notes": "",
-        "status": "Confirmado"
-      }
-    ],
-    "2026-11-18": [
-      {
-        "id": "7e623eb2-258e-42f6-a9d9-144f28de8466",
-        "school": "Jose de la cruz merida - Prekinder",
         "time": "",
         "contact": "",
         "photographer": "",
