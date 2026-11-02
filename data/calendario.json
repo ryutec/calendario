@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T16:17:07.436Z",
+  "updatedAt": "2026-11-02T16:17:19.516Z",
   "events": {
     "2026-09-18": [
       {
@@ -748,18 +748,6 @@
         "status": "Pendiente"
       }
     ],
-    "2026-11-16": [
-      {
-        "id": "275f404a-a93e-4a5a-bac4-bc711fac9799",
-        "school": "Buenos Aires",
-        "time": "",
-        "contact": "",
-        "photographer": "",
-        "place": "",
-        "notes": "",
-        "status": "Confirmado"
-      }
-    ],
     "2026-11-17": [
       {
         "id": "a2ec0dce-0594-4085-8ad2-e8391b5b6dbe",
@@ -1150,6 +1138,18 @@
       {
         "id": "4ebff214-9e07-4cda-b800-1dac174c25ce",
         "school": "San vicente",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Pendiente"
+      }
+    ],
+    "2026-11-18": [
+      {
+        "id": "9d2925fc-7b6c-4317-a6ba-f2b32b54db8b",
+        "school": "Carrusel",
         "time": "",
         "contact": "",
         "photographer": "",
