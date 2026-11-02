@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T16:22:26.807Z",
+  "updatedAt": "2026-11-02T16:24:23.883Z",
   "events": {
     "2026-09-18": [
       {
@@ -1138,6 +1138,18 @@
       {
         "id": "393e21bd-04ea-4064-996b-5c91b22a335c",
         "school": "Calobre primaria",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Pendiente"
+      }
+    ],
+    "2026-11-20": [
+      {
+        "id": "bd63156d-6c9e-44cf-a50a-eb5653633a12",
+        "school": "Merida prescolar",
         "time": "",
         "contact": "",
         "photographer": "",
