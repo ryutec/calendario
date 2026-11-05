@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T16:24:23.883Z",
+  "updatedAt": "2026-11-05T20:47:06.941Z",
   "events": {
     "2026-09-18": [
       {
@@ -1150,6 +1150,30 @@
       {
         "id": "bd63156d-6c9e-44cf-a50a-eb5653633a12",
         "school": "Merida prescolar",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Pendiente"
+      }
+    ],
+    "2026-11-21": [
+      {
+        "id": "9ba170ca-4f12-4dfc-ba08-53c28bdae1a5",
+        "school": "Belisario",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Pendiente"
+      }
+    ],
+    "2026-11-22": [
+      {
+        "id": "cc848cc5-1cb6-4aee-b20c-cb6e28c26283",
+        "school": "Belisario",
         "time": "",
         "contact": "",
         "photographer": "",
