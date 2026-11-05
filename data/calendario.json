@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-05T20:48:50.363Z",
+  "updatedAt": "2026-11-05T20:48:52.103Z",
   "events": {
     "2026-09-18": [
       {
@@ -898,18 +898,6 @@
       {
         "id": "9a5feda8-9e11-4b61-8827-659e70ceed42",
         "school": "EL BARRITO",
-        "time": "",
-        "contact": "",
-        "photographer": "",
-        "place": "",
-        "notes": "",
-        "status": "Confirmado"
-      }
-    ],
-    "2026-11-30": [
-      {
-        "id": "a2b3f576-71aa-4d07-bd32-afe38521a9d6",
-        "school": "Caipi Rio",
         "time": "",
         "contact": "",
         "photographer": "",
