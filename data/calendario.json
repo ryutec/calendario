@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-05T20:47:53.424Z",
+  "updatedAt": "2026-11-05T20:47:55.537Z",
   "events": {
     "2026-09-18": [
       {
@@ -717,16 +717,6 @@
       }
     ],
     "2026-11-11": [
-      {
-        "id": "bf0fff01-4845-467a-bb1f-a6b0389aec40",
-        "school": "Los Algarrobos kinder tarde",
-        "time": "",
-        "contact": "",
-        "photographer": "",
-        "place": "",
-        "notes": "",
-        "status": "Confirmado"
-      },
       {
         "id": "77d32d5e-48e7-45a5-a6f9-32199402ed76",
         "school": "San juan",
