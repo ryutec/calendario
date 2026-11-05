@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-05T20:47:08.400Z",
+  "updatedAt": "2026-11-05T20:47:53.424Z",
   "events": {
     "2026-09-18": [
       {
@@ -717,16 +717,6 @@
       }
     ],
     "2026-11-11": [
-      {
-        "id": "97432c43-7110-4e88-982b-bf1721ca0979",
-        "school": "Los Algarrobos Prekinder mañana",
-        "time": "",
-        "contact": "",
-        "photographer": "",
-        "place": "",
-        "notes": "",
-        "status": "Confirmado"
-      },
       {
         "id": "bf0fff01-4845-467a-bb1f-a6b0389aec40",
         "school": "Los Algarrobos kinder tarde",
