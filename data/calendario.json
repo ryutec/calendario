@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09T14:38:43.559Z",
+  "updatedAt": "2026-11-09T14:39:00.351Z",
   "events": {
     "2026-09-18": [
       {
@@ -1152,6 +1152,18 @@
         "place": "",
         "notes": "",
         "status": "Confirmado"
+      }
+    ],
+    "2026-11-14": [
+      {
+        "id": "adb7abff-4107-4872-9bc5-b46c391b3d21",
+        "school": "Fecha de Recuperación",
+        "time": "8:00 am",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Pendiente"
       }
     ]
   }
