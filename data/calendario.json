@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09T14:39:00.351Z",
+  "updatedAt": "2026-11-09T23:16:17.873Z",
   "events": {
     "2026-09-18": [
       {
@@ -726,6 +726,16 @@
         "place": "",
         "notes": "",
         "status": "Pendiente"
+      },
+      {
+        "id": "62a012fd-cf2a-4cea-b8ec-ca59820d878b",
+        "school": "sesion 1 año",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Pendiente"
       }
     ],
     "2026-11-17": [
@@ -886,18 +896,6 @@
       {
         "id": "63d15a98-bf0c-453b-92d9-0be1fa443989",
         "school": "EL ESPINO",
-        "time": "",
-        "contact": "",
-        "photographer": "",
-        "place": "",
-        "notes": "",
-        "status": "Confirmado"
-      }
-    ],
-    "2026-11-26": [
-      {
-        "id": "9a5feda8-9e11-4b61-8827-659e70ceed42",
-        "school": "EL BARRITO",
         "time": "",
         "contact": "",
         "photographer": "",
