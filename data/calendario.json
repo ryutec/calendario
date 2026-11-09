@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-05T20:48:52.103Z",
+  "updatedAt": "2026-11-09T14:38:43.559Z",
   "events": {
     "2026-09-18": [
       {
@@ -1140,6 +1140,18 @@
         "place": "",
         "notes": "",
         "status": "Pendiente"
+      }
+    ],
+    "2026-11-15": [
+      {
+        "id": "3cf5ea11-f1e4-49a5-9ec2-46260595e4d8",
+        "school": "Actividad Faith Coopeve",
+        "time": "8:00 am",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Confirmado"
       }
     ]
   }
