@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-11T18:05:01.212Z",
+  "updatedAt": "2026-11-11T18:06:25.446Z",
   "events": {
     "2026-09-18": [
       {
@@ -1118,11 +1118,47 @@
         "status": "Confirmado"
       }
     ],
-    "2026-11-14": [
+    "2026-11-23": [
       {
-        "id": "adb7abff-4107-4872-9bc5-b46c391b3d21",
-        "school": "Fecha de Recuperación",
-        "time": "8:00 am",
+        "id": "5b0c562b-620a-41d3-825e-e46bc13a8ddd",
+        "school": "Comarca",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Pendiente"
+      }
+    ],
+    "2026-11-24": [
+      {
+        "id": "16549299-6a97-4647-b0c2-2cd0bbd6a4c9",
+        "school": "Rio de jesus",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Pendiente"
+      }
+    ],
+    "2026-11-26": [
+      {
+        "id": "767fe349-3c9e-45cb-9dd0-738aea38e765",
+        "school": "El higo",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Pendiente"
+      }
+    ],
+    "2026-11-28": [
+      {
+        "id": "73a578a6-4e84-4c24-ad58-c91de3f507a7",
+        "school": "Recuperación",
+        "time": "",
         "contact": "",
         "photographer": "",
         "place": "",
