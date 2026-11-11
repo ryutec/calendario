@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-10T17:13:35.367Z",
+  "updatedAt": "2026-11-11T18:05:01.212Z",
   "events": {
     "2026-09-18": [
       {
@@ -872,18 +872,6 @@
       {
         "id": "11e1da45-a0a0-4b78-bb40-08ebeeb5d8dc",
         "school": "La Subidita",
-        "time": "",
-        "contact": "",
-        "photographer": "",
-        "place": "",
-        "notes": "",
-        "status": "Confirmado"
-      }
-    ],
-    "2026-11-23": [
-      {
-        "id": "d1b05ae8-e7a9-43a3-a4d1-83cb6529c674",
-        "school": "LAS ANIMAS DE BORO",
         "time": "",
         "contact": "",
         "photographer": "",
