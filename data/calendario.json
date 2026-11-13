@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-11T18:06:25.446Z",
+  "updatedAt": "2026-11-13T17:43:54.179Z",
   "events": {
     "2026-09-18": [
       {
@@ -1164,6 +1164,18 @@
         "place": "",
         "notes": "",
         "status": "Pendiente"
+      }
+    ],
+    "2026-12-16": [
+      {
+        "id": "5ed59a24-be9b-4585-a274-6fa147c58a53",
+        "school": "Grad Martin Grande",
+        "time": "10 AM",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Confirmado"
       }
     ]
   }
