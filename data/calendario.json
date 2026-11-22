@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T17:43:54.179Z",
+  "updatedAt": "2026-11-22T14:00:26.163Z",
   "events": {
     "2026-09-18": [
       {
@@ -1171,6 +1171,38 @@
         "id": "5ed59a24-be9b-4585-a274-6fa147c58a53",
         "school": "Grad Martin Grande",
         "time": "10 AM",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Confirmado"
+      }
+    ],
+    "2026-12-09": [
+      {
+        "id": "08d0e32c-fe4b-4322-80e6-ba7bfc66e74c",
+        "school": "Graduacion Oxford",
+        "time": "10 am",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Confirmado"
+      },
+      {
+        "id": "136efbef-a423-45c1-8da7-ed68c2925899",
+        "school": "Evento Canovas",
+        "time": "1 pm",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Confirmado"
+      },
+      {
+        "id": "11436f25-f78d-48f3-9e31-2c8f57fd8359",
+        "school": "Misa San Vicente",
+        "time": "5 pm",
         "contact": "",
         "photographer": "",
         "place": "",
