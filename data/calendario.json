@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-22T14:02:14.438Z",
+  "updatedAt": "2026-11-22T18:21:07.101Z",
   "events": {
     "2026-09-18": [
       {
@@ -1140,6 +1140,16 @@
         "place": "",
         "notes": "",
         "status": "Pendiente"
+      },
+      {
+        "id": "516dcb76-a91c-479b-a2cb-b2d676fb77ca",
+        "school": "El Barrito",
+        "time": "",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Confirmado"
       }
     ],
     "2026-11-26": [
