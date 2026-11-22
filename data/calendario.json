@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-22T18:21:07.101Z",
+  "updatedAt": "2026-11-22T18:22:33.708Z",
   "events": {
     "2026-09-18": [
       {
@@ -838,16 +838,6 @@
       {
         "id": "752200a9-f0f5-49b7-8842-3d1013633853",
         "school": "Graduación Policia",
-        "time": "",
-        "contact": "",
-        "photographer": "",
-        "place": "",
-        "notes": "",
-        "status": "Confirmado"
-      },
-      {
-        "id": "d58aaaff-4785-40a8-995b-2e05aa8e5ce6",
-        "school": "CENA SAN VICENTE",
         "time": "",
         "contact": "",
         "photographer": "",
