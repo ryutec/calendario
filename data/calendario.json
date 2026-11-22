@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-22T14:00:26.163Z",
+  "updatedAt": "2026-11-22T14:02:14.438Z",
   "events": {
     "2026-09-18": [
       {
@@ -1203,6 +1203,18 @@
         "id": "11436f25-f78d-48f3-9e31-2c8f57fd8359",
         "school": "Misa San Vicente",
         "time": "5 pm",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Confirmado"
+      }
+    ],
+    "2026-12-10": [
+      {
+        "id": "fddad48a-a593-46f8-99f3-106b56ee2649",
+        "school": "Graduacion Oxford",
+        "time": "10 am",
         "contact": "",
         "photographer": "",
         "place": "",
