@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-22T20:15:29.266Z",
+  "updatedAt": "2026-11-23T18:08:39.375Z",
   "events": {
     "2026-09-18": [
       {
@@ -1016,7 +1016,17 @@
       {
         "id": "4ebff214-9e07-4cda-b800-1dac174c25ce",
         "school": "San vicente",
-        "time": "",
+        "time": "6 pm",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Pendiente"
+      },
+      {
+        "id": "b39dbc1e-7add-4822-b12b-cbdc62ad2312",
+        "school": "Rótulo Arrocha",
+        "time": "9 am",
         "contact": "",
         "photographer": "",
         "place": "",
