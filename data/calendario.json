@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T18:08:39.375Z",
+  "updatedAt": "2026-11-23T20:09:43.147Z",
   "events": {
     "2026-09-18": [
       {
@@ -1242,6 +1242,28 @@
         "place": "",
         "notes": "",
         "status": "Confirmado"
+      }
+    ],
+    "2026-11-30": [
+      {
+        "id": "a17fdb8e-3498-454e-b5cb-31d574a7d3e6",
+        "school": "Rio de Jesus",
+        "time": "7:30 am",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Confirmado"
+      },
+      {
+        "id": "750c2f14-ff1b-4b73-ae24-a59cafd45234",
+        "school": "Guarumal Trinchera",
+        "time": "10 am",
+        "contact": "",
+        "photographer": "",
+        "place": "",
+        "notes": "",
+        "status": "Pendiente"
       }
     ]
   }
