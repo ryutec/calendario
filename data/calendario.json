@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T20:09:43.147Z",
+  "updatedAt": "2026-11-24T15:51:00.780Z",
   "events": {
     "2026-09-18": [
       {
@@ -880,18 +880,6 @@
         "place": "",
         "notes": "",
         "status": "Confirmado"
-      }
-    ],
-    "2026-12-02": [
-      {
-        "id": "6b6e4de5-9bdf-4b18-9f06-27c90969d2aa",
-        "school": "Caipi Cerro Plata",
-        "time": "",
-        "contact": "",
-        "photographer": "",
-        "place": "",
-        "notes": "",
-        "status": "Pendiente"
       }
     ],
     "2026-09-04": [
